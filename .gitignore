@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Raw datasets
+*.csv
+*.dta
+*.sav
+*.xlsx
+
+# Logs
+*.log
